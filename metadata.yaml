@@ -1,5 +1,8 @@
 _repo: The-Monastery_6406
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -17,6 +20,8 @@ description: "The Monastery: a Romance (1820) is a historical novel by Sir Walte
   \ Scott. Along with The Abbot, it is one of Scott's Tales from Benedictine Sources\
   \ and is set in the time of Mary, Queen of Scots, and the Elizabethan period.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6406#The-Monastery
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
